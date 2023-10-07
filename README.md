@@ -4,8 +4,8 @@ Projeto consite em gerar senhas seguras que inclue letras maiusculas, letras min
 
 
 ### Exemplos de requisições e respostas:
-          REQUISIÇÃO
-http://localhost:3000/gerarsenha?tamanho=8
+          
+REQUISIÇÃO:      http://localhost:3000/gerarsenha?tamanho=8
 
-           RESPOSTA
-           "oI]]tTax"
+RESPOSTA:         "oI]]tTax"
+          
