@@ -16,7 +16,7 @@ app.get('/gerarSenha', (req, res) => {
         senha += caracteres.charAt(indiceAleatorio);
     }
 
-    res.json({ senhaGerada: senha });
+    res.json(senha);
 });
 
 
