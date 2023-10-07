@@ -1,4 +1,4 @@
-![senhas-fracas-seguranca](https://github.com/RaletS/Gerador-de-senhas/assets/132180945/8bc3d4db-2acd-4fcf-b1de-af5c8aca5c9c)
+![senhas-fracas-seguranca](https://github.com/RaletS/Gerador-de-senhas/assets/132180945/63a90122-8796-4bf2-aeba-870bfed88cca)
 
 
 
