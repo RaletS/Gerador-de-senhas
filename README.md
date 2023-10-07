@@ -4,7 +4,7 @@ Projeto consite em gerar senhas seguras que inclue letras maiusculas, letras min
 
 
 ### Exemplos de requisições e respostas:
-          [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/rafael-de-jesus-a84ab3127) 
+      ![as](https://github.com/RaletS/Gerador-de-senhas/assets/132180945/8a453419-0166-4c77-a059-f32985fa0249)
 REQUISIÇÃO:      http://localhost:3000/gerarsenha?tamanho=8
 
 RESPOSTA:         "oI]]tTax"
