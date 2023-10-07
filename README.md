@@ -1,3 +1,7 @@
+![senhas-fracas-seguranca](https://github.com/RaletS/Gerador-de-senhas/assets/132180945/8bc3d4db-2acd-4fcf-b1de-af5c8aca5c9c)
+
+
+
 # Gerador-de-senhas
 
 Projeto consite em gerar senhas seguras que inclue letras maiusculas, letras minusculas, numeros e simbolos. A requisição deverar informar no paramento query  *tamanho* da senha que deseja. Caso não informe será gerada um senha com 6 caracteres por padrão.
